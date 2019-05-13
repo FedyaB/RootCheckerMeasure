@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RootChecker(Measure)</string>
+    <string name="runs_number">Desired number of runs</string>
+    <string name="status_done">Done</string>
+    <string name="run_test">Run the test</string>
+    <string name="default_runs" translatable="false">5</string>
+    <string name="write_dir_name" translatable="false">RootCheckerMeasurements</string>
+    <string name="experiment_name">Measuring…</string>
+    <string name="experiment_file_name" translatable="false">measurements</string>
+    <string name="feature_hide">Hide App</string>
+    <string name="feature_norm">Normal App</string>
+    <string name="feature_pm">Package Manager</string>
+    <string name="feature_shell">Shell Time</string>
+</resources>
